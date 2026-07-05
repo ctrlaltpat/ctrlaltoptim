@@ -53,7 +53,7 @@ export interface ProcessedImage {
 export interface ProcessingStats {
   totalImages: number;
   originalTotalSize: number;
-  optimizedTotalSize: number;
+  optimisedTotalSize: number;
   totalTimeMs: number;
 }
 

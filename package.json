@@ -1,8 +1,8 @@
 {
-  "name": "image-optimizer",
+  "name": "image-optimiser",
   "private": true,
   "version": "1.0.0",
-  "description": "Client-side image optimizer – compress, resize, and download optimized images",
+  "description": "Client-side image optimiser – compress, resize, and download optimised images",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -17,6 +17,6 @@
     "@typescript-eslint/parser": "^7.0.0",
     "eslint": "^8.57.0",
     "typescript": "^5.4.0",
-    "vite": "^5.4.0"
+    "vite": "^8.1.3"
   }
 }
